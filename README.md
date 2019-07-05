@@ -18,4 +18,4 @@ As you move through the modules, you can run module-specific tests with the scri
 You can also run a visual test using the command `npm run visual:module1`, replacing the number with one that corresponds with the module you are working in.
 
 Previewing Your Work
-In order to see your changes in a browser, you can run npm start from the command line. This will open a browser and you should see your landing page.
+In order to see your changes in a browser, you can run npm start from the command line. 
